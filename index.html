@@ -1,19 +1,102 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <title>For sale: 2012 Ducati Streetfighter</title>
-  </head>
-  <body>
-    <img src="https://resources.zybooks.com/WebProgramming/ducativ1.jpg" alt="Bike photo">
-    <h1>2012 Ducati Streetfighter 848 - $9000</h1>
-    <p>2012 Ducati Streetfighter 848, Low Miles, Lots of Upgrades. Full service history.
-    Call or text 555-4400.</p>
-    <p>year: <strong>2012</strong></p>
-    <p>make and model: <strong>Ducati Streetfighter 848</strong></p>
-    <p>condition: <strong>excellent</strong></p>
-    <p>engine: <strong>848</strong></p>
-    <p>odometer: <strong>9500</strong></p>
-    <p>paint color: <strong>yellow</strong></p>
-  </body>
-</html> 
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Choopan Grill</title>
+
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<!-- Navigation -->
+<header>
+    <h1>Choopan Grill</h1>
+
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#menu">Menu</a>
+        <a href="#about">About</a>
+        <a href="#contact">Contact</a>
+    </nav>
+</header>
+
+
+<!-- Hero Section -->
+<section id="home" class="hero">
+    <h2>Fresh Mediterranean & Grilled Food</h2>
+    <p>Enjoy authentic grilled dishes made with fresh ingredients.</p>
+    <button onclick="showMessage()">View Menu</button>
+</section>
+
+
+<!-- Menu Section -->
+<section id="menu">
+    <h2>Popular Dishes</h2>
+
+    <div class="menu-container">
+
+        <div class="menu-item">
+            <h3>Chicken Kebab</h3>
+            <p>Grilled chicken served with rice and salad.</p>
+        </div>
+
+        <div class="menu-item">
+            <h3>Lamb Kebab</h3>
+            <p>Traditional lamb grilled with spices.</p>
+        </div>
+
+        <div class="menu-item">
+            <h3>Mixed Grill</h3>
+            <p>A mix of grilled meats served with rice.</p>
+        </div>
+
+    </div>
+</section>
+
+
+<!-- About Section -->
+<section id="about">
+    <h2>About Choopan Grill</h2>
+
+    <p>
+        Choopan Grill is a restaurant that serves delicious Mediterranean
+        and Afghan grilled food. Our goal is to provide fresh, flavorful
+        meals and a welcoming dining experience for every customer.
+    </p>
+
+</section>
+
+
+<!-- Contact Section -->
+<section id="contact">
+
+<h2>Contact Us</h2>
+
+<form id="contactForm">
+
+<label>Name:</label>
+<input type="text" id="name" required>
+
+<label>Email:</label>
+<input type="email" id="email" required>
+
+<label>Message:</label>
+<textarea id="message" required></textarea>
+
+<button type="submit">Send Message</button>
+
+</form>
+
+</section>
+
+
+<footer>
+<p>© 2026 Choopan Grill Website Project</p>
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
