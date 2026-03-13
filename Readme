@@ -1,72 +1,225 @@
-# BCS-Project-1 
+WEBSITE FROM SCRATCH PROJECT
+
+Overview:
+Choose a real or fictional business and create a website completely from scratch.
+The project is divided into THREE parts:
+1. Content
+2. Design
+3. Interactivity
+
+You will plan and justify your choices before implementation.
+
 --------------------------------------------------
 PART 1: CONTENT (Answer ALL questions, add your own if necessary)
 
 1. What is the name of your business?
-The business name Is Sanvi Dairy Supply.
+The business name is Choopan Grill.
 
 
 2. Is the business real or fictional?
-This is real Business 
+Choopan Grill  is a real Business.
 
 
 3. What products or services does the business offer?
-   OfferS FRESH FARMS PRODUCTS LIKE MILK, YOGURT, CHEESE, GHEE, CAKES, 
-   
+Choopan Grill offers a variety of traditional Afghan dishes. 
+The menu includes appetizers, soups, salads, and grilled kebabs such as chicken kebab, lamb tikka, and kofta.
+The restaurant provides freshly prepared meals for customers who want authentic Afghan cuisine.
 
-5. Who is the target audience?
-   
-7. What problem does this business solve?
-   
-9. What makes this business unique compared to competitors?
-    
-11. What pages will your website include (e.g., Home, About, Services, Contact)?
-    
-13. Write a short mission statement for the business.
-    
-15. What tone should the website content have (professional, friendly, modern, etc.)?
-    
-17. What call-to-action do you want visitors to take?
-    
-19. What information must be immediately visible on the homepage?
-    
-21. Will the site include images, videos, or other media? Why?
+4. Who is the target audience?
+The target audience includes:
+People who enjoy international food
+Families looking for traditional meals
+Students and local residents
+Anyone interested in trying Afghan cuisine
+
+5. What problem does this business solve?
+The restaurant provides a place where customers can enjoy authentic Afghan food that may not be available in many other restaurants.
+
+
+6. What makes this business unique compared to competitors?
+Choopan Grill stands out because it focuses on traditional Afghan recipes and freshly grilled kebabs. The dishes are made with authentic ingredients and represent Afghan culture and cooking traditions.
+
+
+7. What pages will your website include (e.g., Home, About, Services, Contact)?
+The website will include the following pages:
+•	Home page
+•	About page
+•	Menu page
+•	Contact page
+
+
+
+8. Write a short mission statement for the business.
+The mission of Choopan Grill is to share the taste of Afghan cuisine by serving fresh food and providing a welcoming place for customers to enjoy traditional meals.
+
+
+9. What tone should the website content have (professional, friendly, modern, etc.)?
+The tone of the website will be friendly, welcoming, and easy to understand.
+
+
+10. What call-to-action do you want visitors to take?
+Visitors should be encouraged to visit the restaurant and try the menu items.
+
+
+11. What information must be immediately visible on the homepage?
+The homepage should clearly show:
+•	The restaurant name
+•	A picture of the food or restaurant
+•	A short welcome message
+•	A navigation menu to access other pages
+•	A link to the menu
+
+
+12. Will the site include images, videos, or other media? Why?
+Yes, the website will include images of food and the restaurant. Images make the website more appealing and help visitors see what dishes are offered.
+
+
 
 --------------------------------------------------
 PART 2: DESIGN (Answer ALL questions, add your own if necessary)
 
 1. What overall style will the website have (minimalist, corporate, creative, etc.)?
-   
-3. What color scheme will you use and why?
-   
-5. What fonts will you use for headings and body text?
-   
-7. How will spacing and layout improve readability?
-   
-9. What visual hierarchy will guide the user’s attention?
-    
-11. How will consistency be maintained across pages?
-    
-13. What icons will you use?
-    
-15. What emotions should the design evoke in users?
-    
-17. How will accessibility be considered (contrast, font size, etc.)?
-    
-19. What inspiration sources influenced your design?
-    
-21. Describe the layout of the homepage and build the wireframe
+The website will have a simple and clean restaurant style that focuses on the food and menu.
+
+
+2. What color scheme will you use and why?
+The color scheme will include dark red, black, and white. These colors are commonly used in restaurant websites and create a warm and comfortable feeling.
+
+3. What fonts will you use for headings and body text?
+A bold font will be used for headings to make them stand out, and a simple readable font will be used for the body text.
+
+4. How will spacing and layout improve readability?
+Spacing between sections, images, and text will make the content easier to read and prevent the page from looking crowded.
+
+
+6. What visual hierarchy will guide the user’s attention?
+Larger headings, images, and menu sections will help guide the user’s attention to the most important information on the page.
+
+
+7. How will consistency be maintained across pages?
+All pages will use the same navigation bar, colors, fonts, and layout style so the website looks consistent.
+
+8. What icons will you use?
+Simple icons may be used for location, contact information, and menu items.
+
+9. What emotions should the design evoke in users?
+The design should make visitors feel comfortable, interested in the food, and excited to try the dishes.
+
+10. How will accessibility be considered (contrast, font size, etc.)?
+Accessibility will be considered by:
+•	Using readable font sizes
+•	Ensuring good color contrast
+•	Keeping the navigation simple and clear
+
+
+
+11. What inspiration sources influenced your design?
+The design is inspired by modern restaurant websites that focus on food images and simple navigation.
+
+12. Describe the layout of the homepage and build the wireframe
+The homepage will include the following sections:
+1.	Navigation bar with links to other pages
+2.	A large image of the restaurant or food
+3.	A welcome message introducing Choopan Grill
+4.	A preview of menu items
+5.	Contact information at the bottom
+Simple wireframe example:
+--------------------------------
+LOGO | HOME | ABOUT | MENU | CONTACT
+--------------------------------
+
+        LARGE FOOD IMAGE
+
+      Welcome to Choopan Grill
+      Traditional Afghan Food
+
+--------------------------------
+          MENU PREVIEW
+--------------------------------
+
+          CONTACT INFO
+--------------------------------
+ 
 
 --------------------------------------------------
 PART 3: INTERACTIVITY (Answer ALL questions, add your own if necessary)
 
 1. What interactive elements will your site include (forms, buttons, menus, etc.)?
-   
-3. How will users navigate the website?
-   
-5. Will there be form validation or user feedback? Explain.
-   
-7. What JavaScript functionality will you implement?
-   
-9. How does interactivity improve user experience?
+The website will include navigation menus, buttons, and a contact form.
+
+
+2. How will users navigate the website?
+Users will navigate using the navigation bar at the top of the page, which links to the Home, About, Menu, and Contact pages.
+
+3. Will there be form validation or user feedback? Explain.
+Yes. The contact form will require users to fill in important fields such as name and message before submitting.
+
+
+4. What JavaScript functionality will you implement?
+JavaScript may be used to add simple interactions such as form validation or button effects
+
+5. How does interactivity improve user experience?
+Interactivity allows users to easily move between pages, interact with forms, and explore the menu, which makes the website easier and more enjoyable to use. 
+
+
+--------------------------------------------------
+RUBRIC (100 POINTS TOTAL)
+
+Content (40 points)
+- Business concept clarity (10 pts)
+- Completeness of answers (10 pts)
+- Quality and relevance of written content (10 pts)
+- Organization and structure (10 pts)
+
+Design (40 points)
+- Visual consistency and aesthetics (10 pts)
+- Effective color and font choices (10 pts)
+- Layout and usability (10 pts)
+- Accessibility and responsiveness considerations (10 pts)
+
+Interactivity (20 points)
+- Appropriate use of interactive elements (10 pts)
+- Functionality and usability (10 pts)
+
+--------------------------------------------------
+Submission Requirements:
+
+How to submit:
+* Everything is to be posted on GitHub and the website need to be hosted on [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
+* Submit only the GitHub Repo and Website URL link on Brightspace
+
+What to include in the repo:
+- Web Design Document: this will be the README.md file in your repo. This includes :
+	= all the questions as well as your answers
+	= any external resources used (links)
+	= wireframe design (hand-drawn/computer-aided)
+	= main sections to include:
+		+ project overview
+		+ target audience
+		+ content strategy
+		+ information organization
+		+ visual desing (wireframe and more)
+		+ interaction / functionality
+		+ technical overview
+		+ timeline / project milestone
+- The website files (HTML, CSS, JS)
+	= Code must be original and well-commented
+
+--------------------------------------------------
+Extra Credit Opportunity
+- Design the website to be accessible
+- Design the website for a real business
+- Design the website to be responsive (mobile vs desktop)
  
+
+
+
+
+
+
+
+
+
+
+
+
